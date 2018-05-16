@@ -1,0 +1,4 @@
+1: test lai ham ban
+2: len day cam bien
+3: Code bo xung cam bien
+4; toi uu hoa ham chay all
